@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /Icons/
+
+# You can add more directories or specific files to disallow if needed.
+
+Disallow: /*?   # Disallow URLs with query parameters (e.g., dynamic pages)
+
+Sitemap: https://www.aircraftsspotting.com/sitemap.xml
